@@ -2,3 +2,5 @@
 
 
 [![build](https://github.com/krchmkn/chaikin_smoothing/actions/workflows/rust.yml/badge.svg)](https://github.com/krchmkn/chaikin_smoothing/actions/workflows/rust.yml)
+
+[View](https://github.com/krchmkn/chaikin_smoothing/blob/main/src/main.rs#L37)
